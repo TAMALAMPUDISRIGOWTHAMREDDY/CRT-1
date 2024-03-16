@@ -1,0 +1,10 @@
+a=1
+b="abc"
+c=True
+f=1.234
+d=2+i3
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(f))
+print(type(d))

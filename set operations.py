@@ -1,0 +1,11 @@
+set={1,2,"abc","a@de","a",143} #create set
+print(set)
+#print(set[2])
+set.add("gowtham")
+print(set)
+set.update(["gowtham","swetha"])
+print(set)
+set.remove(1)
+print(set)
+set.discard("a@de")
+print(set)
